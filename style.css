@@ -375,4 +375,8 @@ textarea::placeholder {
     justify-content: center;
     gap: 20px;
   }
+
+  .hidden {
+    display: none !important;
+  }
 }
